@@ -1,0 +1,39 @@
+Part 5, 1a  (a)   CYEndwmtFundGrp/BeginningYearBalanceAmt
+Part 5, 1a  (b)   CYMinus1YrEndwmtFundGrp/BeginningYearBalanceAmt
+Part 5, 1a  (c)   CYMinus2YrEndwmtFundGrp/BeginningYearBalanceAmt
+Part 5, 1a  (d)   CYMinus3YrEndwmtFundGrp/BeginningYearBalanceAmt
+Part 5, 1a  (e)   CYMinus4YrEndwmtFundGrp/BeginningYearBalanceAmt
+Part 5, 1b, (a)   CYEndwmtFundGrp/ContributionsAmt
+Part 5, 1b, (b)   CYMinus1YrEndwmtFundGrp/ContributionsAmt
+Part 5, 1b, (c)   CYMinus2YrEndwmtFundGrp/ContributionsAmt
+Part 5, 1b, (d)   CYMinus3YrEndwmtFundGrp/ContributionsAmt
+Part 5, 1b, (e)   CYMinus4YrEndwmtFundGrp/ContributionsAmt
+Part 5, 1c, (a)  CYEndwmtFundGrp/InvestmentEarningsOrLossesAmt
+Part 5, 1c, (b)  CYMinus1YrEndwmtFundGrp/InvestmentEarningsOrLossesAmt
+Part 5, 1c, (c)  CYMinus2YrEndwmtFundGrp/InvestmentEarningsOrLossesAmt
+Part 5, 1c, (d)  CYMinus3YrEndwmtFundGrp/InvestmentEarningsOrLossesAmt
+Part 5, 1c, (e)  CYMinus4YrEndwmtFundGrp/InvestmentEarningsOrLossesAmt
+Part 5, 1d, (a)     CYEndwmtFundGrp/GrantsOrScholarshipsAmt
+Part 5, 1d, (b)     CYMinus1YrEndwmtFundGrp/GrantsOrScholarshipsAmt
+Part 5, 1d, (c)     CYMinus2YrEndwmtFundGrp/GrantsOrScholarshipsAmt
+Part 5, 1d, (d)     CYMinus3YrEndwmtFundGrp/GrantsOrScholarshipsAmt
+Part 5, 1d, (e)     CYMinus4YrEndwmtFundGrp/GrantsOrScholarshipsAmt
+Part 5, 1e  (a)  CYEndwmtFundGrp/OtherExpendituresAmt
+Part 5, 1e  (b)  CYMinus1YrEndwmtFundGrp/OtherExpendituresAmt
+Part 5, 1e  (c)  CYMinus2YrEndwmtFundGrp/OtherExpendituresAmt
+Part 5, 1e  (d)  CYMinus3YrEndwmtFundGrp/OtherExpendituresAmt
+Part 5, 1e  (e)  CYMinus4YrEndwmtFundGrp/OtherExpendituresAmt
+Part 5, 2a   BoardDesignatedBalanceEOYPct
+Part 5, 2b   PrmnntEndowmentBalanceEOYPct
+Part 5, 2c   TermEndowmentBalanceEOYPct
+Part 5, 3a, (i) EndowmentsHeldUnrelatedOrgInd
+Part 5, 3a, (ii) EndowmentsHeldRelatedOrgInd
+Part 5, 3b  RelatedOrgListSchRInd
+Part 7, 1 (b)   FinancialDerivativesGrp/BookValueAmt
+Part 7, 1 (c)   FinancialDerivativesGrp/MethodValuationCd
+Part 7, 2 (b)   CloselyHeldEquityInterestsGrp/BookValueAmt
+Part 7, 2 (c)   CloselyHeldEquityInterestsGrp/MethodValuationCd
+Part 7, 3 (a)   OtherSecuritiesGrp/Desc
+Part 7, 3 (b)   OtherSecuritiesGrp/BookValueAmt
+Part 7, 3 (c)   OtherSecuritiesGrp/MethodValuationCd
+Part 7, b (total)    TotalBookValueSecuritiesAmt
